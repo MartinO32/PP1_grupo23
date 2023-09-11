@@ -6,3 +6,4 @@
 - Sequeira Adrian
 - Chaile V. Andrés
 - Oller Martín Ariel
+- Ormeño Diego
