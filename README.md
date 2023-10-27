@@ -1,10 +1,1 @@
-# PP1_grupo23
-
-- Godoy Gustavo Alberto
-- Daniela Verónica Busetti Díaz
-- Claudia Yon
-- Sequeira Adrian
-- Chaile V. Andrés
-- Oller Martín Ariel
-- Ormeño Diego
-- Ulerich Romina
+![Portada](https://drive.google.com/uc?id=1SmNz1dTwrN-hw2wI2IMliyG350221CLl)
